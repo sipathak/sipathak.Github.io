@@ -28,6 +28,10 @@ How does class size affect college admission?
 What are the top math schools in the state? 
 
 ---
+#### [The Future of Healthcare Analytics: A SQL Based Approach](https://www.linkedin.com/pulse/future-healthcare-analytics-sql-based-approach-simran-pathak/?trackingId=mMKCmXX9TuyBjquyzA71Bw%3D%3D)
+<img src="the.png?raw=true"/>
+
+---
 
 ### Category Name 2
 
