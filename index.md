@@ -15,7 +15,7 @@
 ---
 #### [Door Dash Market Growth Analysis](https://www.linkedin.com/pulse/doordash-market-growth-analysis-simran-pathak/?trackingId=%2FdoKdFgRQ4K5SZovtwLvTA%3D%3D)
 <img src="images/Red Simple 3D Food Delivery Order Instagram Post.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+For this project, I used Excel to analyze DoorDash data to see which marketing campaign was the most succesfull. Also providing recommendations aboout how they can improve their marketing which can increase their users and profits.
 
 ---
 #### [Unearthing Insights: Python Data Analysis in the Mining Industry](https://www.linkedin.com/pulse/unearthing-insights-python-data-analysis-mining-industry-pathak/?trackingId=qwms2tAMQGetAjVRH%2B637g%3D%3D)
