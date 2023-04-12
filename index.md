@@ -11,7 +11,7 @@
 ---
 #### [The Future of Healthcare Analytics: A SQL Based Approach](https://www.linkedin.com/pulse/future-healthcare-analytics-sql-based-approach-simran-pathak/?trackingId=mMKCmXX9TuyBjquyzA71Bw%3D%3D)
 <img src="images/the.png?raw=true"/>
-
+This project sought to assist hospitals in better understanding their data by offering a thorough examination of patient care, treatment effectiveness, and hospital operations.
 
 ---
 #### [Door Dash Market Growth Analysis](https://www.linkedin.com/pulse/doordash-market-growth-analysis-simran-pathak/?trackingId=%2FdoKdFgRQ4K5SZovtwLvTA%3D%3D)
