@@ -4,40 +4,32 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/bank)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
-
 ---
 #### [Door Dash Market Growth Analysis](https://www.linkedin.com/pulse/doordash-market-growth-analysis-simran-pathak/?trackingId=%2FdoKdFgRQ4K5SZovtwLvTA%3D%3D)
 <img src="images/Red Simple 3D Food Delivery Order Instagram Post.png?raw=true"/>
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
----
-#### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
-
-
----
-#### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
-What schools are struggling the most?
-How does class size affect college admission?
-What are the top math schools in the state? 
 
 ---
 #### [The Future of Healthcare Analytics: A SQL Based Approach](https://www.linkedin.com/pulse/future-healthcare-analytics-sql-based-approach-simran-pathak/?trackingId=mMKCmXX9TuyBjquyzA71Bw%3D%3D)
 <img src="images/the.png?raw=true"/>
 
 ---
+#### [Unearthing Insights: Python Data Analysis in the Mining Industry](https://www.linkedin.com/pulse/unearthing-insights-python-data-analysis-mining-industry-pathak/?trackingId=qwms2tAMQGetAjVRH%2B637g%3D%3D)
+<img src="images/Manu.png?raw=true"/>
+
+
+---
+#### [Google Playstore Apps Visualization](https://public.tableau.com/app/profile/simran.pathak6739)
+<img src="images/Tableau.png?raw=true"/>
+
+---
 
 ### Category Name 2
 
-- [Project 1 Title]([http://example.com/](https://www.linkedin.com/pulse/future-healthcare-analytics-sql-based-approach-simran-pathak/?trackingId=mMKCmXX9TuyBjquyzA71Bw%3D%3D))
-- [Project 2 Title](https://www.linkedin.com/pulse/doordash-market-growth-analysis-simran-pathak/?trackingId=%2FdoKdFgRQ4K5SZovtwLvTA%3D%3D)
-- [Project 3 Title](http://example.com/)
+- [The Future of Healthcare Analytics: A SQL Based Approach]([http://example.com/](https://www.linkedin.com/pulse/future-healthcare-analytics-sql-based-approach-simran-pathak/?trackingId=mMKCmXX9TuyBjquyzA71Bw%3D%3D))
+- [Door Dash Market Growth Analysis](https://www.linkedin.com/pulse/doordash-market-growth-analysis-simran-pathak/?trackingId=%2FdoKdFgRQ4K5SZovtwLvTA%3D%3D)
+- [Unearthing Insights: Python Data Analysis in the Mining Industry]([http://example.com/](https://www.linkedin.com/pulse/unearthing-insights-python-data-analysis-mining-industry-pathak/?trackingId=qwms2tAMQGetAjVRH%2B637g%3D%3D))
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
