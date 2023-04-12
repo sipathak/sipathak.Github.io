@@ -35,7 +35,7 @@ What are the top math schools in the state?
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
+- [Project 1 Title]([http://example.com/](https://www.linkedin.com/pulse/future-healthcare-analytics-sql-based-approach-simran-pathak/?trackingId=mMKCmXX9TuyBjquyzA71Bw%3D%3D))
 - [Project 2 Title](https://www.linkedin.com/pulse/doordash-market-growth-analysis-simran-pathak/?trackingId=%2FdoKdFgRQ4K5SZovtwLvTA%3D%3D)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
