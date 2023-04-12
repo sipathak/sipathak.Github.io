@@ -30,7 +30,7 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 - [Google Playstore Apps Visualization](https://public.tableau.com/app/profile/simran.pathak6739)
 - [The Future of Healthcare Analytics: A SQL Based Approach]([http://example.com/](https://www.linkedin.com/pulse/future-healthcare-analytics-sql-based-approach-simran-pathak/?trackingId=mMKCmXX9TuyBjquyzA71Bw%3D%3D))
 - [Door Dash Market Growth Analysis](https://www.linkedin.com/pulse/doordash-market-growth-analysis-simran-pathak/?trackingId=%2FdoKdFgRQ4K5SZovtwLvTA%3D%3D)
-- [Unearthing Insights: Python Data Analysis in the Mining Industry]([http://example.com/](https://www.linkedin.com/pulse/unearthing-insights-python-data-analysis-mining-industry-pathak/?trackingId=qwms2tAMQGetAjVRH%2B637g%3D%3D)
+- [Unearthing Insights: Python Data Analysis in the Mining Industry](https://www.linkedin.com/pulse/unearthing-insights-python-data-analysis-mining-industry-pathak/?trackingId=qwms2tAMQGetAjVRH%2B637g%3D%3D)
 ---
 
 
