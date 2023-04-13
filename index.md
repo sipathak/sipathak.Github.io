@@ -7,6 +7,7 @@
 ---
 #### [Google Playstore Apps Visualization](https://public.tableau.com/app/profile/simran.pathak6739)
 <img src="images/tableau.png?raw=true"/>
+In this project, I have worked on a real-world dataset of the google play store, one of the most used applications for downloading android apps. This project aims on cleaning the dataset, analyze the given dataset, and mining informational quality insights. This project also involves visualizing the data to better and easily understand trends and different categories.
 
 ---
 #### [The Future of Healthcare Analytics: A SQL Based Approach](https://www.linkedin.com/pulse/future-healthcare-analytics-sql-based-approach-simran-pathak/?trackingId=mMKCmXX9TuyBjquyzA71Bw%3D%3D)
